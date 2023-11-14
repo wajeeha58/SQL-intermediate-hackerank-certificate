@@ -1,0 +1,1 @@
+# SQL-intermediate-hackerank-certificate
